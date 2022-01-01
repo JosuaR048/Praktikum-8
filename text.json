@@ -1,0 +1,74 @@
+{
+    "menu": [
+        {
+            "jenis": "minuman",
+            "nama": "Lemon Tea",
+            "deskripsi": "Teh dengan perasan lemon yang segar",
+            "harga": 15000,
+            "gambar": "lemontea.jpe"
+        },
+        {
+            "jenis": "makanan",
+            "nama": "Roti Bakar Coklat Keju",
+            "deskripsi": "Roti yang dibakar dengan taburan coklat dan keju",
+            "harga": 20000,
+            "gambar": "rotibakarCoklatKeju.jfif"
+        },
+        {
+            "jenis": "makanan",
+            "nama": "Intel Rebus",
+            "deskripsi": "Indomie rebus dengan telur setengah matang",
+            "harga": 21000,
+            "gambar": "IntelRebus.jpg"
+        },
+        {
+            "jenis": "makanan",
+            "nama": "Intel Goreng",
+            "deskripsi": "Indomie Goreng dengan telur setengah matang",
+            "harga": 21000,
+            "gambar": "IntelGoreng.jpg"
+        },
+        {
+            "jenis": "minuman",
+            "nama": "Es Teh Manis",
+            "deskripsi": "Ya teh manis",
+            "harga": 5000,
+            "gambar": "TehManis.jpg"
+        },
+        {
+            "jenis": "makanan",
+            "nama": "Paket Ayam Geprek",
+            "deskripsi": "Nasi + Ayam Geprek + Sambal Matah",
+            "harga": 30000,
+            "gambar": "GeprekMatah.jpg"
+        },
+        {
+            "jenis": "makanan",
+            "nama": "Paket Telur Geprek",
+            "deskripsi": "Nasi + Telur Geprek + Sambal Matah",
+            "harga": 25000,
+            "gambar": "TelurMatah.jpg"
+        },
+        {
+            "jenis": "minuman",
+            "nama": "Orange Juice",
+            "deskripsi": "Jus dengan perasan jeruk yang alami",
+            "harga": 10000,
+            "gambar": "OrangeJ.jpeg"
+        },
+        {
+            "jenis": "minuman",
+            "nama": "Ice Chocolate",
+            "deskripsi": "Minuman coklat yang menyegarkan",
+            "harga": 15000,
+            "gambar": "EsCoklat.jpg"
+        },
+        {
+            "jenis": "makanan",
+            "nama": "Nasi Goreng Special",
+            "deskripsi": "Nasi goreng dengan telur, daging ayam, sayuran, dan kerupuk",
+            "harga": 27000,
+            "gambar": "Nasgor.jfif"
+        }
+    ]
+}
